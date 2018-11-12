@@ -1,0 +1,12 @@
+Bem-vindos à corrida de F1.
+
+Antes de qualquer coisa, para rodar a corrida é preciso ter o java 8 instalado na sua máquina.
+
+Terá um arquivo corrida.jar. Por favor, clique duas vezes nesse arquivo e abrirá a corrida!!
+
+Para iniciar a corrida, basta apertar o botão "INICIAR". 
+
+A corrida deverá demorar uns 4 minutos, e depois disso, aparecerá os resultados da corrida.
+
+Enjoy!
+ 
